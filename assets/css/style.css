@@ -1,0 +1,11 @@
+body {
+  font-size: 18px;
+  line-height: 34px;
+}
+
+.container {
+  width: 30px;
+}
+.col-sm-6 {
+  width: 30px;
+}
